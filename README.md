@@ -14,24 +14,32 @@ If the time gap between two browser history items, a.k.a. the Inactivity Thresho
 
 ## Installation & Usage
 
-Create a virtual environment named .venv
+### Create a virtual environment named .venv
+
 ```uv venv .venv```
+<br>
 
+### Activate the environment
 
-Activate the environment
+#### On Windows:
 
-On Windows:
 ```.\.venv\Scripts\activate```
+<br>
 
-On macOS/Linux:
+#### On macOS/Linux:
+
 ```source .venv/bin/activate```
+<br>
 
+### Install Gradio
 
-Install Gradio
 ```uv pip install gradio```
+<br>
 
-Run the app!
+### Run the app!
+
 ```python3 calculate_browser_hours.py```
+<br>
 
 ## Supported Browsers
 

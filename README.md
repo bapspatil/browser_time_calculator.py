@@ -1,5 +1,7 @@
 # Browser Time Calculator ⏳
 
+![Screenshot of Browser Time Calculator](./screenshots/screenshot_1.png){: height="300px"}
+
 A really, really simple tool to calculate how many hours you've spent in a browser using the time difference between browser history items, a.k.a. the Inactivity Threshold.
 
 I did this to roughly calculate time spent on a client who has a monthly retainer with me.
